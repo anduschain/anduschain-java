@@ -1,2 +1,3 @@
 # anduschain-java
-https://github.com/anduschain/anduschain-java.git
+install
+git clone https://github.com/anduschain/anduschain-java.git
